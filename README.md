@@ -24,15 +24,11 @@ I'm a **B.Tech Computer Science student** focused on **Software Development, Jav
 <img src="https://skillicons.dev/icons?i=css" width="75" height="75" alt="CSS"/>
 </p>
 
-### 🎨 Frontend Development
+🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" width="75" height="75" alt="React"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ejs" width="75" height="75" alt="EJS"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" width="75" height="75" alt="Bootstrap"/>
-</p>
+<p> <img src="https://skillicons.dev/icons?i=react" width="75" height="75" alt="React"/> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html" width="75" height="75" alt="HTML"/> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" width="75" height="75" alt="CSS"/> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=bootstrap" width="75" height="75" alt="Bootstrap"/> </p>
+
+EJS · JavaScript · Responsive Design
 
 ### ⚙️ Backend Development
 
@@ -58,13 +54,11 @@ I'm a **B.Tech Computer Science student** focused on **Software Development, Jav
 <img src="https://skillicons.dev/icons?i=github" width="75" height="75" alt="GitHub"/>
 </p>
 
-### ☁️ Deployment & Services
+☁️ Deployment & Services
 
-<p>
-<img src="https://skillicons.dev/icons?i=render" width="75" height="75" alt="Render"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cloudinary" width="75" height="75" alt="Cloudinary"/>
-</p>
+<p> <img src="https://skillicons.dev/icons?i=vercel" width="75" height="75" alt="Deployment"/> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=cloudflare" width="75" height="75" alt="Cloud Services"/> </p>
+
+Render · Cloudinary · GitHub
 
 ### 🔐 Other Technologies
 
