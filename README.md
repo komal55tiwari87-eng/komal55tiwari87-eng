@@ -1,43 +1,73 @@
-# Hi, I'm Komal Tiwari 👋
+                                                         # Hi, I'm Komal Tiwari 👋
 
-💻 B.Tech CSE student focused on Software Development and Problem Solving.
+                                  💻 B.Tech CSE student focused on Software Development and Problem Solving.
 
-🚀 I build full-stack web applications using JavaScript, Node.js, Express.js, MongoDB and React.js.
+                     🚀 I build full-stack web applications using JavaScript, Node.js, Express.js, MongoDB and React.js.
+                
+                🧠 Currently strengthening Java, DSA, OOP, DBMS, Operating Systems and Computer Networks for Software Development Engineer roles.
+                
+                         📚 I enjoy learning new technologies, building projects and improving my problem-solving skills.
 
-🧠 Currently strengthening Java, DSA, OOP, DBMS, Operating Systems and Computer Networks for Software Development Engineer roles.
 
-📚 I enjoy learning new technologies, building projects and improving my problem-solving skills.
+                                                                ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+                                                          ### 💻 Programming Languages
 
-**Languages:** Java, JavaScript, HTML, CSS
-**Frontend:** React.js, EJS, Bootstrap
-**Backend:** Node.js, Express.js
-**Database:** MongoDB
-**Tools:** Git, GitHub, VS Code
-**Other:** REST APIs, Authentication, Cloudinary, Render
+                                                                    * Java
+                                                                    * JavaScript
+                                                                    * HTML
+                                                                    * CSS
 
-## 🚀 Projects
+                                                                  ### 🎨 Frontend
+                                                                  
+                                                                    * React.js
+                                                                    * EJS
+                                                                    * Bootstrap
+                                                                    
+                                                                  ### ⚙️ Backend
+                                                                  
+                                                                    * Node.js
+                                                                    * Express.js
+                                                                  
+                                                                  ### 🗄️ Database
+                                                                  
+                                                                    * MongoDB
+                                                                    * Mongoose
 
-### Wanderlust
+                                                                  ### 🔐 Authentication & APIs
+                                                                  
+                                                                    * REST APIs
+                                                                    * Passport.js
+                                                                    * Authentication
+                                                                    
+                                                                  ### 🧰 Tools & Technologies
+                                                                  
+                                                                    * Git
+                                                                    * GitHub
+                                                                    * VS Code
+                                                                    * Cloudinary
+                                                                    * Render
 
-Airbnb-style property listing platform with authentication, CRUD operations, reviews, image uploads, category filtering and map integration.
+                                                                    Projects
+                                                                   Wanderlust
 
-**Tech:** Node.js, Express.js, MongoDB, EJS, Passport.js, Cloudinary, Multer, Bootstrap, Render
+          Airbnb-style property listing platform with authentication, CRUD operations, reviews, image uploads, category filtering and map integration.
 
-### SmartPG
+                              Tech: Node.js, Express.js, MongoDB, EJS, Passport.js, Cloudinary, Multer, Bootstrap, Render
 
-PG discovery platform with filters, authentication, verified listings and personalized recommendations based on user preferences.
+                                                                    SmartPG
 
-**Tech:** Node.js, Express.js, MongoDB, Mongoose, EJS, Passport.js
+              PG discovery platform with filters, authentication, verified listings and personalized recommendations based on user preferences.
 
-### Zerodha Clone
+                                        Tech: Node.js, Express.js, MongoDB, Mongoose, EJS, Passport.js
 
-Trading platform UI inspired by Zerodha with a React.js frontend and Node.js/Express.js backend.
+                                                                   Zerodha Clone
 
-**Tech:** React.js, Node.js, Express.js, MongoDB
+                         Trading platform UI inspired by Zerodha with a React.js frontend and Node.js/Express.js backend.
 
-## 📫 Connect With Me
+                                                 Tech: React.js, Node.js, Express.js, MongoDB
 
-* 💼 LinkedIn: https://linkedin.com/in/komal-tiwari-243100359
-* 🐙 GitHub: https://github.com/komal55tiwari87-eng
+                                                               📫 Connect With Me
+                                          💼 LinkedIn: https://linkedin.com/in/komal-tiwari-243100359
+                                              🐙 GitHub: https://github.com/komal55tiwari87-eng
+                                                              
