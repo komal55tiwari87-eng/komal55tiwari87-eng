@@ -1,73 +1,64 @@
-                                                         # Hi, I'm Komal Tiwari 👋
+# Hi, I'm Komal Tiwari 👋
 
-                                  💻 B.Tech CSE student focused on Software Development and Problem Solving.
+💻 B.Tech CSE student focused on Software Development and Problem Solving.
 
-                     🚀 I build full-stack web applications using JavaScript, Node.js, Express.js, MongoDB and React.js.
-                
-                🧠 Currently strengthening Java, DSA, OOP, DBMS, Operating Systems and Computer Networks for Software Development Engineer roles.
-                
-                         📚 I enjoy learning new technologies, building projects and improving my problem-solving skills.
+🚀 I build full-stack web applications and enjoy working with Java, JavaScript, React.js, Node.js, Express.js and MongoDB.
 
+🧠 Currently strengthening DSA, OOP, DBMS, Operating Systems and Computer Networks for Software Development Engineer roles.
 
-                                                                ## 🛠️ Tech Stack
+---
 
-                                                          ### 💻 Programming Languages
+## 🛠️ Tech Stack
 
-                                                                    * Java
-                                                                    * JavaScript
-                                                                    * HTML
-                                                                    * CSS
+### 💻 Programming Languages
 
-                                                                  ### 🎨 Frontend
-                                                                  
-                                                                    * React.js
-                                                                    * EJS
-                                                                    * Bootstrap
-                                                                    
-                                                                  ### ⚙️ Backend
-                                                                  
-                                                                    * Node.js
-                                                                    * Express.js
-                                                                  
-                                                                  ### 🗄️ Database
-                                                                  
-                                                                    * MongoDB
-                                                                    * Mongoose
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/>
+</p>
 
-                                                                  ### 🔐 Authentication & APIs
-                                                                  
-                                                                    * REST APIs
-                                                                    * Passport.js
-                                                                    * Authentication
-                                                                    
-                                                                  ### 🧰 Tools & Technologies
-                                                                  
-                                                                    * Git
-                                                                    * GitHub
-                                                                    * VS Code
-                                                                    * Cloudinary
-                                                                    * Render
+### 🎨 Frontend
 
-                                                                    Projects
-                                                                   Wanderlust
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React.js"/>
+  <img src="https://skillicons.dev/icons?i=ejs" height="50" alt="EJS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap"/>
+</p>
 
-          Airbnb-style property listing platform with authentication, CRUD operations, reviews, image uploads, category filtering and map integration.
+### ⚙️ Backend
 
-                              Tech: Node.js, Express.js, MongoDB, EJS, Passport.js, Cloudinary, Multer, Bootstrap, Render
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js"/>
+</p>
 
-                                                                    SmartPG
+### 🗄️ Database
 
-              PG discovery platform with filters, authentication, verified listings and personalized recommendations based on user preferences.
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/>
+</p>
 
-                                        Tech: Node.js, Express.js, MongoDB, Mongoose, EJS, Passport.js
+### 🧰 Tools
 
-                                                                   Zerodha Clone
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+</p>
 
-                         Trading platform UI inspired by Zerodha with a React.js frontend and Node.js/Express.js backend.
+### ☁️ Deployment & Services
 
-                                                 Tech: React.js, Node.js, Express.js, MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=render" height="50" alt="Render"/>
+  <img src="https://skillicons.dev/icons?i=cloudinary" height="50" alt="Cloudinary"/>
+</p>
 
-                                                               📫 Connect With Me
-                                          💼 LinkedIn: https://linkedin.com/in/komal-tiwari-243100359
-                                              🐙 GitHub: https://github.com/komal55tiwari87-eng
+**Other:** REST APIs · Authentication · Passport.js · Mongoose
+
+---
+
+#
+
                                                               
