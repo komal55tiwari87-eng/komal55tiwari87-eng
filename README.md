@@ -59,6 +59,34 @@
 
 ---
 
-#
+🚀 Projects
+🏠 Wanderlust
+
+Airbnb-style property listing platform with authentication, CRUD operations, reviews, image uploads, category filtering and map integration.
+
+Tech: Node.js · Express.js · MongoDB · EJS · Passport.js · Cloudinary · Multer · Bootstrap · Render
+
+🏢 SmartPG
+
+PG discovery platform with filters, authentication, verified listings and personalized recommendations based on user preferences.
+
+Tech: Node.js · Express.js · MongoDB · Mongoose · EJS · Passport.js
+
+📈 Zerodha Clone
+
+Trading platform UI inspired by Zerodha with a React.js frontend and Node.js/Express.js backend.
+
+Tech: React.js · Node.js · Express.js · MongoDB
+
+📚 Currently Learning
+Java & Data Structures and Algorithms
+Object-Oriented Programming
+DBMS
+Operating Systems
+Computer Networks
+Problem Solving
+📫 Connect With Me
+
+<p> <a href="https://linkedin.com/in/komal-tiwari-243100359"> <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/> </a> <a href="https://github.com/komal55tiwari87-eng"> <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/> </a> </p>
 
                                                               
